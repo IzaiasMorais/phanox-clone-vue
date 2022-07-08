@@ -38,7 +38,7 @@ $ npm i
 $ npm run dev
 
 # Run Json-server
-$ json-server -w ./api/
+$ json-server -w ./api/phanox.json
 ```
 
 
