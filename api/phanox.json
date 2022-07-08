@@ -1,0 +1,211 @@
+{
+  "compras": [
+    {
+      "comprador_id": "mateus@origamid.com",
+      "vendedor_id": "izaias@origamid.com",
+      "produto": {
+        "id": "PP5",
+        "nome": "Watch Blaze",
+        "usuario_id": "izaias@origamid.com",
+        "preco": "49",
+        "vendido": "false",
+        "descricao": "Esse é um produto novo",
+        "fotos": "@/assets/1.webp"
+      },
+      "endereco": {
+        "cep": "64060670",
+        "rua": "Rua Engenheiro Josué de Araújo Luz",
+        "numero": "4345",
+        "bairro": "Porto do Centro",
+        "cidade": "Teresina",
+        "estado": "PI"
+      },
+      "id": 1804300
+    },
+    {
+      "comprador_id": "mateus@origamid.com",
+      "vendedor_id": "izaias@origamid.com",
+      "produto": {
+        "id": "PP6",
+        "nome": "Airdopes 281 Pro",
+        "usuario_id": "izaias@origamid.com",
+        "preco": "69",
+        "vendido": "false",
+        "descricao": "Esse é um produto novo",
+        "fotos": "@/assets/1.webp"
+      },
+      "endereco": {
+        "cep": "64060670",
+        "rua": "Rua Engenheiro Josué de Araújo Luz",
+        "numero": "4345",
+        "bairro": "Porto do Centro",
+        "cidade": "Teresina",
+        "estado": "PI"
+      },
+      "id": 3445490
+    },
+    {
+      "comprador_id": "mateus@origamid.com",
+      "vendedor_id": "izaias@origamid.com",
+      "produto": {
+        "id": "PP8",
+        "nome": "Rockerz 333",
+        "usuario_id": "izaias@origamid.com",
+        "preco": "55",
+        "vendido": "false",
+        "descricao": "Esse é um produto novo",
+        "fotos": "@/assets/1.webp"
+      },
+      "endereco": {
+        "cep": "64060670",
+        "rua": "Rua Engenheiro Josué de Araújo Luz",
+        "numero": "4345",
+        "bairro": "Porto do Centro",
+        "cidade": "Teresina",
+        "estado": "PI"
+      },
+      "id": 2188003
+    },
+    {
+      "comprador_id": "mateus@origamid.com",
+      "vendedor_id": "izaias@origamid.com",
+      "produto": {
+        "id": "PP2",
+        "nome": "Rockerz 451",
+        "usuario_id": "izaias@origamid.com",
+        "preco": "49",
+        "vendido": "false",
+        "descricao": "Esse é um produto novo",
+        "fotos": "@/assets/1.webp"
+      },
+      "endereco": {
+        "cep": "64060670",
+        "rua": "Rua Engenheiro Josué de Araújo Luz",
+        "numero": "4345",
+        "bairro": "Porto do Centro",
+        "cidade": "Teresina",
+        "estado": "PI"
+      },
+      "id": 5545202
+    }
+  ],
+  "carrinho": [],
+  "usuario": [
+    {
+      "id": "izaias@origamid.com",
+      "nome": "Izaias Lima",
+      "email": "izaias@origamid.com",
+      "senha": "64564564",
+      "cep": "64030670",
+      "rua": "Quadra 46",
+      "numero": "44",
+      "bairro": "Bela Vista",
+      "cidade": "Teresina",
+      "estado": "PI"
+    },
+    {
+      "id": "mateus@origamid.com",
+      "nome": "Mateus",
+      "email": "mateus@origamid.com",
+      "senha": "123",
+      "cep": "64060670",
+      "rua": "Rua Engenheiro Josué de Araújo Luz",
+      "numero": "4345",
+      "bairro": "Porto do Centro",
+      "cidade": "Teresina",
+      "estado": "PI"
+    }
+  ],
+  "produto": [
+    {
+      "id": "PP1",
+      "nome": "Party Pal 50",
+      "usuario_id": "izaias@origamid.com",
+      "preco": "56",
+      "vendido": "false",
+      "descricao": "Esse é um produto novo",
+      "fotos": "@/assets/1.webp"
+    },
+    {
+      "id": "PP2",
+      "nome": "Rockerz 451",
+      "usuario_id": "izaias@origamid.com",
+      "preco": "49",
+      "vendido": "false",
+      "descricao": "Esse é um produto novo",
+      "fotos": "@/assets/1.webp"
+    },
+    {
+      "id": "PP3",
+      "nome": "Immortal 1000D",
+      "usuario_id": "izaias@origamid.com",
+      "preco": "50",
+      "vendido": "false",
+      "descricao": "Esse é um produto novo",
+      "fotos": "@/assets/1.webp"
+    },
+    {
+      "id": "PP4",
+      "nome": "BassHeads 242",
+      "usuario_id": "izaias@origamid.com",
+      "preco": "34",
+      "vendido": "false",
+      "descricao": "Esse é um produto novo",
+      "fotos": "@/assets/1.webp"
+    },
+    {
+      "id": "PP5",
+      "nome": "Watch Blaze",
+      "usuario_id": "izaias@origamid.com",
+      "preco": "49",
+      "vendido": "false",
+      "descricao": "Esse é um produto novo",
+      "fotos": "@/assets/1.webp"
+    },
+    {
+      "id": "PP6",
+      "nome": "Airdopes 281 Pro",
+      "usuario_id": "izaias@origamid.com",
+      "preco": "69",
+      "vendido": "false",
+      "descricao": "Esse é um produto novo",
+      "fotos": "@/assets/1.webp"
+    },
+    {
+      "id": "PP7",
+      "nome": "BassHeads 900",
+      "usuario_id": "izaias@origamid.com",
+      "preco": "49",
+      "vendido": "false",
+      "descricao": "Esse é um produto novo",
+      "fotos": "@/assets/1.webp"
+    },
+    {
+      "id": "PP8",
+      "nome": "Rockerz 333",
+      "usuario_id": "izaias@origamid.com",
+      "preco": "55",
+      "vendido": "false",
+      "descricao": "Esse é um produto novo",
+      "fotos": "@/assets/1.webp"
+    },
+    {
+      "id": "PP9",
+      "nome": "Party Pal 50",
+      "usuario_id": "izaias@origamid.com",
+      "preco": "42",
+      "vendido": "false",
+      "descricao": "Esse é um produto novo",
+      "fotos": "@/assets/1.webp"
+    },
+    {
+      "nome": "Redmi Note 8",
+      "preco": "500",
+      "descricao": "Dispositivo redmi note 8 modelo Z62IDE",
+      "fotos": null,
+      "vendido": "false",
+      "usuario_id": "mateus@origamid.com",
+      "id": "sDYmCGE"
+    }
+  ]
+}
