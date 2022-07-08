@@ -36,6 +36,9 @@ $ npm i
 
 # Run the project
 $ npm run dev
+
+# Run Json-server
+$ json-server -w ./api/
 ```
 
 
