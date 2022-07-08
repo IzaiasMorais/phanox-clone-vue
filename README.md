@@ -2,8 +2,9 @@
    🛍 Phanox
 </h1>
 
-<p align='center'>
-  <img alt='' src='https://i.imgur.com/SZtgScC.png'>
-  <img alt='' src='https://i.imgur.com/4RwhhXb.png'>
-  <img alt='' src='https://i.imgur.com/Pi6htwQ.png'>
-</p>
+<p align="center">Um e-commerce completo</p>
+
+## 🚀 Technologies
+
+- [Vue.js](https://vuejs.org/)
+- [Axios](https://axios-http.com/)
