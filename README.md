@@ -4,7 +4,7 @@
 
 <p align="center">Um e-commerce completo</p>
 
-https://user-images.githubusercontent.com/53953937/178051478-39c85a02-9eca-4ef4-a768-c69e33471902.mp4
+https://user-images.githubusercontent.com/53953937/178058539-8f6a30fa-23da-4e13-9d2f-9935cd073c91.mp4
 
 ## 📃 About the project
 
@@ -37,10 +37,6 @@ $ npm i
 # Run the project
 $ npm run dev
 ```
-
-
-
-
 
 
 
