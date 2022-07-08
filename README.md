@@ -10,7 +10,7 @@ https://user-images.githubusercontent.com/53953937/178051478-39c85a02-9eca-4ef4-
 
 E-commerce reativo com manuseio de carrinho de compras e adição de produtos. Foi usado Vue no projeto para toda estrutura e json-server para simular uma API.
 
-### Funcionalidades
+### Functionalities
 
 - Listagem, adição, remoção de produtos com json-server.
 - Autenticação simples com link de dados.
