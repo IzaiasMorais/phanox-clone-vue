@@ -22,6 +22,7 @@ E-commerce reativo com manuseio de carrinho de compras e adição de produtos. F
 - [Vue.js](https://vuejs.org/)
 - [JavaScript](https://www.javascript.com/)
 - [Axios](https://axios-http.com/)
+- [json-server](https://www.npmjs.com/package/json-server)
 
 
 
