@@ -24,6 +24,13 @@ E-commerce reativo com manuseio de carrinho de compras e adição de produtos. F
 - [Axios](https://axios-http.com/)
 - [json-server](https://www.npmjs.com/package/json-server)
 
+## 💻 Cloning project
+
+```bash
+$ 
+```
+
+
 
 
 
