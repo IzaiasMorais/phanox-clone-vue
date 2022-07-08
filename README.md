@@ -27,8 +27,17 @@ E-commerce reativo com manuseio de carrinho de compras e adição de produtos. F
 ## 💻 Cloning project
 
 ```bash
-$ 
+$ git clone https://github.com/IzaiasMorais/phanox-clone-vue.git && cd phanox-clone-vue
 ```
+
+```bash
+# Install the dependecies
+$ npm i
+
+# Run the project
+$ npm run dev
+```
+
 
 
 
