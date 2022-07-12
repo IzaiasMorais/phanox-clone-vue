@@ -12,9 +12,10 @@ E-commerce reativo com manuseio de carrinho de compras e adição de produtos. F
 
 ### Functionalities
 
-- Listagem, adição, remoção de produtos com json-server.
+- Listagem, adição, remoção de produtos no carrinho com json-server.
 - Autenticação simples com link de dados.
 - Paginação e pesquisa de produtos com Vue puro.
+- Compra e venda de produtos.
 - Edição de usuário.
 
 ## 🚀 Technologies
