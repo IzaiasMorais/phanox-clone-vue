@@ -2,7 +2,7 @@
    🛍 Phanox
 </h1>
 
-<p align="center">Um e-commerce completo</p>
+<p align="center">Um e-commerce moderno feito em Vue</p>
 
 https://user-images.githubusercontent.com/53953937/178058539-8f6a30fa-23da-4e13-9d2f-9935cd073c91.mp4
 
@@ -28,7 +28,7 @@ E-commerce reativo com manuseio de carrinho de compras e adição de produtos. F
 ## 💻 Cloning project
 
 ```bash
-$ git clone https://github.com/IzaiasMorais/phanox-clone-vue.git && cd phanox-clone-vue
+$ git clone https://github.com/IzaiasMorais/phanox-vue.git && cd phanox-vue
 ```
 
 ```bash
